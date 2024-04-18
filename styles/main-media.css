@@ -4,6 +4,11 @@
         font-size: 16px;
     }
 
+    .wrapper {
+        width: 1000px;
+
+    }
+
     .wrapper-header {
         height: 600px;
     }
@@ -29,13 +34,18 @@
     body {
         font-size: 15px;
     }
+
     .wrapper {
-        width: 1024px;
+        width: 824px;
 
     }
 
     .wrapper-header {
         height: 500px;
+    }
+
+    .coffe-beans {
+        justify-content: left;
     }
 
 }
@@ -47,13 +57,15 @@
         font-size: 12px;
     }
     .wrapper {
-        width: 960px;
+        width: 760px;
 
     }
 
     .wrapper-header {
         height: 400px;
     }
+
+
 
     .coffe-bean>img {
         width: 250px;

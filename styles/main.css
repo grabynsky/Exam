@@ -160,6 +160,7 @@ body {
 .coffe-beans {
     margin: 3em 0 0 0;
     display: flex;
+    justify-content: center;
 }
 
 .coffe-bean>img {
